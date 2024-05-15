@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\bin\Debug\net6.0\CS303-FirstConsoleApp.exe
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\bin\Debug\net6.0\CS303-FirstConsoleApp.deps.json
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\bin\Debug\net6.0\CS303-FirstConsoleApp.runtimeconfig.json
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\bin\Debug\net6.0\CS303-FirstConsoleApp.dll
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\bin\Debug\net6.0\CS303-FirstConsoleApp.pdb
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\obj\Debug\net6.0\CS303-FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\obj\Debug\net6.0\CS303-FirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\obj\Debug\net6.0\CS303-FirstConsoleApp.AssemblyInfo.cs
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\obj\Debug\net6.0\CS303-FirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\obj\Debug\net6.0\CS303-FirstConsoleApp.dll
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\obj\Debug\net6.0\refint\CS303-FirstConsoleApp.dll
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\obj\Debug\net6.0\CS303-FirstConsoleApp.pdb
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\obj\Debug\net6.0\CS303-FirstConsoleApp.genruntimeconfig.cache
+C:\Users\User\source\repos\CS303-FirstConsoleApp\CS303-FirstConsoleApp\obj\Debug\net6.0\ref\CS303-FirstConsoleApp.dll

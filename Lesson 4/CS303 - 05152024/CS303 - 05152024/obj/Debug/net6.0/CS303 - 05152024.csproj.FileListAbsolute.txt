@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\bin\Debug\net6.0\CS303 - 05152024.exe
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\bin\Debug\net6.0\CS303 - 05152024.deps.json
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\bin\Debug\net6.0\CS303 - 05152024.runtimeconfig.json
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\bin\Debug\net6.0\CS303 - 05152024.dll
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\bin\Debug\net6.0\CS303 - 05152024.pdb
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\obj\Debug\net6.0\CS303 - 05152024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\obj\Debug\net6.0\CS303 - 05152024.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\obj\Debug\net6.0\CS303 - 05152024.AssemblyInfo.cs
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\obj\Debug\net6.0\CS303 - 05152024.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\obj\Debug\net6.0\CS303 - 05152024.dll
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\obj\Debug\net6.0\refint\CS303 - 05152024.dll
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\obj\Debug\net6.0\CS303 - 05152024.pdb
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\obj\Debug\net6.0\CS303 - 05152024.genruntimeconfig.cache
+C:\Users\User\source\repos\CS303 - 05152024\CS303 - 05152024\obj\Debug\net6.0\ref\CS303 - 05152024.dll
