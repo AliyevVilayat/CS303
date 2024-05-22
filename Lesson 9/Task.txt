@@ -1,0 +1,45 @@
+1.1
+
+Teacher Class
+
+Fields: Id, Name, Surname, Age, Field
+Constructors: Default and parameter qəbul edən
+Methods: DisplayInfo()
+
+Not: DisplayInfo methodu geriyə heç bir dəyər qaytarmır. Ekrana Müəllimin bütün datalarını çıxarsın.
+     Parameter qəbul edən constructor name və surname dəyərlərini qəbul etsin.
+
+
+1.2
+
+İki object instance alınsın,birinci object boş constructor vasitəsi ilə dəyər set olunaraq və ya instance alındığı yerdə dəyər set olunaraq, ikinci obyekt isə parametrli constructor vasitəsi ilə instance alınsın.
+
+Hər iki objectə də DisplayInfo methodu call olsunsun
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

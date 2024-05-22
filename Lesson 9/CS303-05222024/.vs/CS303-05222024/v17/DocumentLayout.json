@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\CS303-05222024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{875E09DD-8531-4206-8D08-7968B1FFB816}|CS303-05222024\\CS303-05222024.csproj|c:\\users\\user\\source\\repos\\cs303-05222024\\cs303-05222024\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875E09DD-8531-4206-8D08-7968B1FFB816}|CS303-05222024\\CS303-05222024.csproj|solutionrelative:cs303-05222024\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875E09DD-8531-4206-8D08-7968B1FFB816}|CS303-05222024\\CS303-05222024.csproj|c:\\users\\user\\source\\repos\\cs303-05222024\\cs303-05222024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875E09DD-8531-4206-8D08-7968B1FFB816}|CS303-05222024\\CS303-05222024.csproj|solutionrelative:cs303-05222024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CS303-05222024\\CS303-05222024\\Program.cs",
+              "RelativeDocumentMoniker": "CS303-05222024\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CS303-05222024\\CS303-05222024\\Program.cs",
+              "RelativeToolTip": "CS303-05222024\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:17:00.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CS303-05222024\\CS303-05222024\\Student.cs",
+              "RelativeDocumentMoniker": "CS303-05222024\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CS303-05222024\\CS303-05222024\\Student.cs",
+              "RelativeToolTip": "CS303-05222024\\Student.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAuwA4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:20:51.955Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
