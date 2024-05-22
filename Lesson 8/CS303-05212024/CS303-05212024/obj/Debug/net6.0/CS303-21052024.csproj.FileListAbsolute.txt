@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\bin\Debug\net6.0\CS303-21052024.exe
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\bin\Debug\net6.0\CS303-21052024.deps.json
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\bin\Debug\net6.0\CS303-21052024.runtimeconfig.json
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\bin\Debug\net6.0\CS303-21052024.dll
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\bin\Debug\net6.0\CS303-21052024.pdb
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\obj\Debug\net6.0\CS303-21052024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\obj\Debug\net6.0\CS303-21052024.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\obj\Debug\net6.0\CS303-21052024.AssemblyInfo.cs
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\obj\Debug\net6.0\CS303-21052024.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\obj\Debug\net6.0\CS303-21052024.dll
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\obj\Debug\net6.0\refint\CS303-21052024.dll
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\obj\Debug\net6.0\CS303-21052024.pdb
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\obj\Debug\net6.0\CS303-21052024.genruntimeconfig.cache
+C:\Users\User\source\repos\CS303-21052024\CS303-21052024\obj\Debug\net6.0\ref\CS303-21052024.dll

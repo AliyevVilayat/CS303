@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\CS303-21052024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C653BBD0-8763-4720-994C-6F16E2A63CBC}|CS303-21052024\\CS303-21052024.csproj|c:\\users\\user\\source\\repos\\cs303-21052024\\cs303-21052024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C653BBD0-8763-4720-994C-6F16E2A63CBC}|CS303-21052024\\CS303-21052024.csproj|solutionrelative:cs303-21052024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C653BBD0-8763-4720-994C-6F16E2A63CBC}|CS303-21052024\\CS303-21052024.csproj|c:\\users\\user\\source\\repos\\cs303-21052024\\cs303-21052024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C653BBD0-8763-4720-994C-6F16E2A63CBC}|CS303-21052024\\CS303-21052024.csproj|solutionrelative:cs303-21052024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CS303-21052024\\CS303-21052024\\Program.cs",
+              "RelativeDocumentMoniker": "CS303-21052024\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CS303-21052024\\CS303-21052024\\Program.cs",
+              "RelativeToolTip": "CS303-21052024\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:15:56.261Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CS303-21052024\\CS303-21052024\\Car.cs",
+              "RelativeDocumentMoniker": "CS303-21052024\\Car.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CS303-21052024\\CS303-21052024\\Car.cs",
+              "RelativeToolTip": "CS303-21052024\\Car.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAABZwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:16:19.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
